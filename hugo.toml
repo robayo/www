@@ -1,0 +1,27 @@
+baseURL = 'https://nicolasrobayo.com/'
+languageCode = 'en-us'
+title = 'Nicolas Robayo Pardo'
+theme = 'almeida-cv'
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#00aedb"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#00aedb"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#00aedb"
+pages = 1
+# Set this param to 'true' to swap the bar positions
+swapColumns = false

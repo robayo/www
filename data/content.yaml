@@ -1,0 +1,125 @@
+AdditionalExperiences:
+- Date: 2021–2022
+  Details: Assisted in Data Analytics courses, developed materials for Optimization.
+  Title: Graduate Teaching Assistant
+- Date: '2020'
+  Details: Developed a multicriteria optimization model for bridge intervention planning.
+  Title: Research for INVIAS
+BasicInfo:
+  Photo: img/avatar.jpg
+  Contacts:
+  - Icon: fas fa-phone
+    Info: +57 301 448 09 12
+  - Icon: fas fa-envelope
+    Info: <a class="contact__link" href="mailto:nico@nicolasrobayo.com" target="_blank">nico@nicolasrobayo.com</a>
+  - Icon: fas fa-globe
+    Info: <a class="contact__link" href="https://nicolasrobayo.com" target="_blank">nicolasrobayo.com</a>
+  - Icon: fab fa-linkedin
+    Info: <a class="contact__link" href="https://linkedin.com/in/nicolasrobayo" target="_blank">linkedin.com/in/nicolasrobayo</a>
+  - Icon: fab fa-github
+    Info: <a class="contact__link" href="https://github.com/robayo" target="_blank">github.com/robayo</a>
+  FirstName: Nicolás
+  LastName: Robayo Pardo
+Diplomas:
+- IBM Data Engineering Professional Certificate
+Education:
+- Course: <a class="contact__link" href="https://industrial.uniandes.edu.co/es/programas-academicos/maestrias/ingenieria-industrial" target="_blank">MS in Industrial Engineering</a>
+  Date: Jan 2021 – Dec 2022
+  Details: 'GPA: 4.84/5.0 (cum laude). Focus: Operations Research, Applied Statistics,
+    Machine Learning.'
+  Place: Universidad de Los Andes, Bogotá, Colombia
+- Course: BS in Industrial Engineering, Minor in Global Studies
+  Date: Aug 2016 – Dec 2020
+  Details: 'GPA: 4.53/5.0 (cum laude).'
+  Place: Universidad de Los Andes, Bogotá, Colombia
+Experience:
+- Employer: Freelance Consultant
+  Place: Remote
+  Positions:
+  - Badges:
+    - Optimization
+    - Statistical Modeling
+    Date: 2024 – Current
+    Details:
+    - Optimized demand estimation algorithm using linear optimization and
+      statistical modeling.
+    - Improved route planning and scheduling with Operation Research tools.
+    Title: Analytics Consultant
+- Employer:  <a class="contact__link" href="http://camaraderiesgo.com" target="_blank">Colombia Counterparty Clearing House</a> 
+  Place: Bogotá, Colombia
+  Positions:
+  - Badges:
+    - Data Warehousing
+    - AI
+    - NLP
+    - Risk Management
+    Date: May 2022 – Current
+    Details:
+    - Developed data centralization solutions with ETL processes and feature documentation.
+    - Implemented AI-powered chatbots using NLP techniques.
+    - Created automated risk management tools with CAMELS methodology and HVAR simulations.
+    - Developed interactive applications for risk management and real-time pricing
+      analysis.
+    Title: Analytics Professional
+- Employer: <a class="contact__link" href="https://www.bancodebogota.com/personas" target="_blank">Banco de Bogotá</a>
+  Place: Bogotá, Colombia
+  Positions:
+  - Badges:
+    - Machine Learning
+    - Credit Scoring
+    Date: Aug 2021 – Apr 2022
+    Details:
+    - Developed a credit scoring model using machine learning and external data sources.
+    - Improved loan portfolio risk assessment and customer acquisition strategies.
+    Title: Data Scientist
+- Employer: <a class="contact__link" href="https://www.intel.com/" target="_blank">Intel</a>
+  Place: Bogotá, Colombia
+  Positions:
+  - Badges:
+    - Analytics
+    - Cloud Solutions
+    Date: Jan 2020 – Jul 2020
+    Details:
+    - Created a cloud-hosted dashboard for sales analytics across the Americas.
+    - Awarded for innovative analytical tools transforming strategic planning.
+    Title: Americas Strategy & Insights Intern
+Interests:
+- Global Politics
+- Cooking
+- Public Transpo.
+- Paragliding
+- Electronic music
+Languages:
+- Level: Native
+  Name: Spanish
+- Level: C2
+  Name: English
+- Level: B1
+  Name: French
+- Level: A1
+  Name: German
+Profile: Industrial Engineer with a Master’s degree in operational research and applied
+  statistics. Experience includes developing analytical platforms, leveraging optimization,
+  statistical techniques, and machine learning to construct decision-making frameworks.
+  Excels in team environments with strong business-oriented and technical skills.
+Skills:
+- Family: Programming
+  Items:
+  - Python
+  - R
+  - Shiny
+  - SQL
+  - APIs
+  - Power BI
+  - Advanced Excel
+- Family: Frameworks
+  Items:
+  - GCP
+  - Docker
+  - Jenkins
+- Family: Data Science
+  Items:
+  - Machine Learning
+  - Optimization
+  - Statistical Analysis
+  - ETL
