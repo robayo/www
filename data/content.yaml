@@ -33,7 +33,7 @@ Education:
   Details: 'GPA: 4.53/5.0 (cum laude).'
   Place: Universidad de Los Andes, Bogotá, Colombia
 Experience:
-- Employer: Freelance Consultant
+- Employer: Data Consultant
   Place: Remote
   Positions:
   - Badges:
@@ -41,6 +41,13 @@ Experience:
     - Statistical Modeling
     Date: 2024 – Current
     Details:
+    - Spearheaded the design and implementation of enterprise-wide data analytics infrastructure from ground zero,
+     transforming manual email-based processes into automated, data-driven workflows for a leading after-sale warranty
+     provider in Central America.
+    - Established data architecture roadmap and technology stack selection, evaluating and implementing modern data 
+      engineering solutions including cloud platforms, ETL pipelines, and real-time analytics capabilities.
+    - Designed and deployed end-to-end data pipeline architecture supporting warranty claim processing,
+      fraud detection, customer segmentation, and predictive maintenance analytics
     - Optimized demand estimation algorithm using linear optimization and
       statistical modeling.
     - Improved route planning and scheduling with Operation Research tools.
@@ -53,7 +60,7 @@ Experience:
     - AI
     - NLP
     - Risk Management
-    Date: May 2022 – Current
+    Date: May 2022 – May 2025 (3 years, 1 month)
     Details:
     - Developed data centralization solutions with ETL processes and feature documentation.
     - Implemented AI-powered chatbots using NLP techniques.
@@ -67,7 +74,7 @@ Experience:
   - Badges:
     - Machine Learning
     - Credit Scoring
-    Date: Aug 2021 – Apr 2022
+    Date: Aug 2021 – Apr 2022 (9 months)
     Details:
     - Developed a credit scoring model using machine learning and external data sources.
     - Improved loan portfolio risk assessment and customer acquisition strategies.
@@ -78,7 +85,7 @@ Experience:
   - Badges:
     - Analytics
     - Cloud Solutions
-    Date: Jan 2020 – Jul 2020
+    Date: Jan 2020 – Jul 2020 (7 months)
     Details:
     - Created a cloud-hosted dashboard for sales analytics across the Americas.
     - Awarded for innovative analytical tools transforming strategic planning.
@@ -96,7 +103,7 @@ Languages:
   Name: English
 - Level: B1
   Name: French
-- Level: A1
+- Level: A1 (certified)
   Name: German
 Profile: Industrial Engineer with a Master’s degree in operational research and applied
   statistics. Experience includes developing analytical platforms, leveraging optimization,
