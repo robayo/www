@@ -61,11 +61,10 @@ Experience:
     - Risk Management
     Date: May 2022 – May 2025
     Details:
-    - Developed data centralization solutions with ETL processes and feature documentation.
-    - Implemented AI-powered chatbots using NLP techniques.
-    - Created automated risk management tools with CAMELS methodology and HVAR simulations.
-    - Developed interactive applications for risk management and real-time pricing
-      analysis.
+    - Developed a sophisticated star schema data warehouse consolidating data from production systems into a unified, enriched data repository with advanced ETL processes and comprehensive feature documentation.
+    - Implemented RAG-based applications from data preparation to training to productive deployment for operational and client facing processes.
+    - Validated and implemented advances quantitative models for risk management including credit and market risk ensuring in a analytical platform with DevOps practices, replacing exhausting manual reports with instant reports.
+    - Developed comprehensive risk analytics platform for Colombia financial instituions that enable secure, privacy-compliant data visualization and advanced statistical analysis for risk management, real-time pricing and strategic decision-making.
     Title: Analytics Professional
 - Employer: <a class="contact__link" href="https://www.bancodebogota.com/personas" target="_blank">Banco de Bogotá</a>
   Place: Bogotá, Colombia
@@ -75,7 +74,7 @@ Experience:
     - Credit Scoring
     Date: Aug 2021 – Apr 2022
     Details:
-    - Developed a credit scoring model using machine learning and external data sources.
+    - Created a predictive model using external credit bureau and payroll data to identify creditworthy individuals previously rejected by traditional scoring methods, improving loan portfolio risk assessment and expanding potential customer base.
     - Improved loan portfolio risk assessment and customer acquisition strategies.
     Title: Data Scientist
 - Employer: <a class="contact__link" href="https://www.intel.com/" target="_blank">Intel</a>
