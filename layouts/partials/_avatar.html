@@ -1,0 +1,12 @@
+{{ if .BasicInfo.Photo }}
+    <div class="sideSection avatar">
+        <div class="avatar__container">
+            <img class="avatar__img" src="{{ .BasicInfo.Photo }}" alt="photo of me">
+        </div>
+        <div class="cv-download">
+            <a class="cv-download__button" href="https://www.dropbox.com/scl/fi/v4n4hy1c09nd41bqsfbze/Nicolas-Robayo-Pardo-cv.pdf?rlkey=m0xrcterycabecam8v3fwkun6&st=y73kpcoc&dl=0" target="_blank" rel="noopener">
+                {{ i18n "downloadCV" }}
+            </a>
+        </div>
+    </div>
+{{ end }}
