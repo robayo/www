@@ -1,0 +1,19 @@
+.avatar {
+    height: auto;
+    overflow: visible;
+    padding-top: 16rem;
+}
+
+.cv-download {
+    text-align: center;
+    margin-top: 1rem;
+
+    &__button {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        background-color: $color-primary;
+        color: $color-icon-primary;
+        text-decoration: none;
+        border-radius: 0.25rem;
+    }
+}
