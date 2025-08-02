@@ -1,116 +1,118 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
   Photo: img/avatar.jpg
   Contacts:
-    - Icon: fas fa-phone
-      Info: +44 123 456 789
-    - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
-    - Icon: fas fa-globe
-      Info: ines-almeida.com
-    - Icon: fas fa-map-marker-alt
-      Info: Portugal
-
-Profile: Deutscher Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-Experience:
-  - Employer: Super Coole Firma
-    Place: Oxford, UK
-    Positions:
-      - Title: Software Entwicklerin
-        Date: Jan 2020 - Jetzt
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Testerin
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Eine andere Supertolle Firma
-    Place: Lisbon, PT
-    Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
-
-Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
-
-Skills:
-  - Family: Programming
-    Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
-    Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
-
-Languages:
-  - Name: Portuguese
-    Level: Native
-  - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
-
+  - Icon: fas fa-phone
+    Info: +57 301 448 09 12
+  - Icon: fas fa-envelope
+    Info: <a class="contact__link" href="mailto:nico@nicolasrobayo.com" target="_blank">nico@nicolasrobayo.com</a>
+  - Icon: fas fa-globe
+    Info: <a class="contact__link" href="https://nicolasrobayo.com" target="_blank">nicolasrobayo.com</a>
+  - Icon: fab fa-linkedin
+    Info: <a class="contact__link" href="https://linkedin.com/in/nicolasrobayo" target="_blank">linkedin.com/in/nicolasrobayo</a>
+  - Icon: fab fa-github
+    Info: <a class="contact__link" href="https://github.com/robayo" target="_blank">github.com/robayo</a>
+  FirstName: Nicolás
+  LastName: Robayo Pardo
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
-
+- IBM Data Engineering Professional Zertifikat
+Education:
+- Course: <a class="contact__link" href="https://industrial.uniandes.edu.co/es/programas-academicos/maestrias/ingenieria-industrial" target="_blank">Master of Science in Wirtschaftsingenieurwesen</a>
+  Date: Jan 2021 – Dez 2022
+  Details: 'Notendurchschnitt: 4,84/5,0 (cum laude). Schwerpunkt: Operations Research, Angewandte Statistik, Maschinelles Lernen.'
+  Place: Universidad de Los Andes, Bogotá, Kolumbien
+- Course: Bachelor of Science in Wirtschaftsingenieurwesen, Nebenfach Global Studies
+  Date: Aug 2016 – Dez 2020
+  Details: 'Notendurchschnitt: 4,53/5,0 (cum laude).'
+  Place: Universidad de Los Andes, Bogotá, Kolumbien
+Experience:
+- Employer: Datenberater
+  Place: Remote
+  Positions:
+  - Badges:
+    - Optimierung
+    - Statistische Modellierung
+    Date: 2024 – Aktuell
+    Details:
+    - Leitete das End-to-End-Design und die Implementierung einer unternehmensweiten Datenanalyse-Infrastruktur und ersetzte manuelle, E-Mail-basierte Prozesse durch automatisierte, datengesteuerte Workflows für einen großen Garantieanbieter in Zentralamerika.
+    - Definierte die Datenarchitekturstrategie und wählte den Technologie-Stack aus, implementierte erfolgreich moderne Data Engineering-Lösungen einschließlich Cloud-Plattformen, skalierbarer ETL-Pipelines und Echtzeit-Analysefunktionen.
+    - Entwarf und startete umfassende Datenpipelines zur Unterstützung zentraler Geschäftsfunktionen wie Garantieanspruchsbearbeitung, Betrugserkennung, Kundensegmentierung und vorausschauende Wartungsanalysen.
+    - Optimierte Nachfrageschätzungsalgorithmus mit linearer Optimierung und statistischer Modellierung.
+    - Verbesserte Routenplanung und Terminplanung mit Operations Research-Tools.
+    Title: Analytics-Berater
+- Employer: <a class="contact__link" href="http://camaraderiesgo.com" target="_blank">Kolumbianische Zentrale Gegenpartei-Clearingstelle</a>
+  Place: Bogotá, Kolumbien
+  Positions:
+  - Badges:
+    - Data Warehousing
+    - KI
+    - NLP
+    - Risikomanagement
+    Date: Mai 2022 – Mai 2025
+    Details:
+    - Entwickelte ein hochentwickeltes Stern-Schema-Data-Warehouse, das Daten aus Produktionssystemen in einem einheitlichen, angereicherten Datenrepository mit fortgeschrittenen ETL-Prozessen und umfassender Feature-Dokumentation konsolidiert.
+    - Implementierte RAG-basierte Anwendungen von der Datenvorbereitung über das Training bis zur produktiven Bereitstellung für operative und kundenorientierte Prozesse.
+    - Validierte und implementierte fortgeschrittene quantitative Modelle für das Risikomanagement einschließlich Kredit- und Marktrisiko in einer analytischen Plattform mit DevOps-Praktiken und ersetzte ermüdende manuelle Berichte durch sofortige Berichte.
+    - Entwickelte eine umfassende Risikoanalyseplattform für kolumbianische Finanzinstitute, die sichere, datenschutzkonforme Datenvisualisierung und fortgeschrittene statistische Analysen für Risikomanagement, Echtzeitpreisbildung und strategische Entscheidungsfindung ermöglicht.
+    Title: Analytics-Spezialist
+- Employer: <a class="contact__link" href="https://www.bancodebogota.com/personas" target="_blank">Banco de Bogotá</a>
+  Place: Bogotá, Kolumbien
+  Positions:
+  - Badges:
+    - Maschinelles Lernen
+    - Kreditbewertung
+    Date: Aug 2021 – Apr 2022
+    Details:
+    - Erstellte ein prädiktives Modell unter Verwendung externer Kreditbüro- und Gehaltsabrechnungsdaten zur Identifizierung kreditwürdiger Personen, die zuvor von traditionellen Bewertungsmethoden abgelehnt wurden, wodurch die Risikobewertung des Kreditportfolios verbessert und der potenzielle Kundenstamm erweitert wurde.
+    - Verbesserte Risikobewertung des Kreditportfolios und Kundenakquisestrategien.
+    Title: Data Scientist
+- Employer: <a class="contact__link" href="https://www.intel.com/" target="_blank">Intel</a>
+  Place: Bogotá, Kolumbien
+  Positions:
+  - Badges:
+    - Analytik
+    - Cloud-Lösungen
+    Date: Jan 2020 – Jul 2020
+    Details:
+    - Erstellte ein cloud-gehostetes Dashboard für Verkaufsanalysen in Amerika.
+    - Ausgezeichnet für innovative analytische Tools, die die strategische Planung transformieren.
+    Title: Americas Strategy & Insights Praktikant
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
+- Weltpolitik
+- Kochen
+- Öffentliche Verkehrsmittel
+- Paragliding
+- Elektronische Musik
+Languages:
+- Level: Muttersprache
+  Name: Spanisch
+- Level: C2
+  Name: Englisch
+- Level: B1
+  Name: Französisch
+- Level: A1 (zertifiziert)
+  Name: Deutsch
+Profile: Wirtschaftsingenieur mit einem Master-Abschluss in Operations Research und angewandter Statistik. Erfahrung umfasst die Entwicklung analytischer Plattformen, Nutzung von Optimierung, statistischen Techniken und maschinellem Lernen zur Konstruktion von Entscheidungsrahmen. Zeichnet sich in Teamumgebungen mit starken geschäftsorientierten und technischen Fähigkeiten aus.
+Skills:
+- Family: Programmierung
+  Items:
+  - Python
+  - R
+  - Prefect
+  - Spark
+  - TensorFlow
+  - Shiny
+  - SQL
+  - APIs
+  - Power BI
+  - Fortgeschrittenes Excel
+- Family: Frameworks
+  Items:
+  - GCP
+  - Docker
+  - Jenkins
+- Family: Data Science
+  Items:
+  - Maschinelles Lernen
+  - Optimierung
+  - Statistische Analyse
+  - ETL
